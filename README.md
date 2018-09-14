@@ -27,6 +27,14 @@ Visual comparison for 4× SR with bicubic interpolation model on PIRM-self, BSD1
 ## Test
 The code is built on the official implementation of [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and tested on Ubuntu 16.04 environment (Python3.6, PyTorch_0.4.0, CUDA8.0) with Titan X GPU. Refer [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) for other dependencies. Test code of EPSR can be found in [EPSR_testcode](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw/tree/master/EPSR_testcode).
 
+## Results on public benchmark datasets
+
+[PIRM-self](https://drive.google.com/file/d/1ottkNHZpSYBk9gMrc1T_iCHdMsQsIKAy/view?usp=sharing)
+- [PIRM-test](https://drive.google.com/file/d/1OngQfvbpVXCFDHNZhZMAMGjTSVNAfkOb/view?usp=sharing) 
+- [BSD100](https://drive.google.com/file/d/12ABqYLYcIhCuYJkMs4HANarjj-OxzWQ2/view?usp=sharing) 
+- [Urban100](https://drive.google.com/file/d/1vgjberya6rYcYq7sTW-DsVOnadqvVYNM/view?usp=sharing) 
+- [Set14](https://drive.google.com/file/d/1FxlVy93o8ZbrCKtqYo8hkk5F4Vx9vRA9/view?usp=sharing) 
+- [Set5](https://drive.google.com/file/d/1I08xKTumupde5BNTEN_e7kJZTLbQeYnJ/view?usp=sharing)
 
 ## References
 
