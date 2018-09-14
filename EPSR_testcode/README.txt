@@ -19,7 +19,7 @@ Place the LR input images in `test' folder. Images can be of type **png** or **j
 
 step 2 : Download the pretrained model weights from "https://drive.google.com/file/d/1zcV8lkykmWiTRv46Kdxep60TBB0Ri-n9/view?usp=sharing" and keep them in the folder "experiment"
 
-step 3 : Run the "code/demo.sh"
+step 3 : Run "code/demo.sh"
 
 cd code-directory
 sh demo.sh
