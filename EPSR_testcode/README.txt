@@ -9,7 +9,7 @@ Our implementation is built on top of the official PyTorch implementation of the
 * matplotlib
 * tqdm
 
-To reproduce the results corresponding to a set of input images follow the steps discussed below.
+To generate the SR results ---------
 
 Approach 1 ---
 
