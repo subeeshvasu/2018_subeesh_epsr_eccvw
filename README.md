@@ -13,6 +13,10 @@ This repo provides the testing codes and pretrained models of our work. We (IPCV
         title = {Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network},
         booktitle = {European Conference on Computer Vision (ECCV) Workshops},
         year = {2018}}
+Results     
+<p align="center">
+<img src="results/example_results.png">
+</p>
 
 ## Test
 The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and tested on Ubuntu 16.04 environment (Python3.6, PyTorch_0.4.0, CUDA8.0) with Titan X GPU. Refer [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) for other dependencies.
