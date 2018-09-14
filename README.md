@@ -29,7 +29,7 @@ The code is built on the official implementation of [EDSR (PyTorch)](https://git
 
 ## Results on public benchmark datasets
 
-[PIRM-self](https://drive.google.com/file/d/1ottkNHZpSYBk9gMrc1T_iCHdMsQsIKAy/view?usp=sharing)
+- [PIRM-self](https://drive.google.com/file/d/1ottkNHZpSYBk9gMrc1T_iCHdMsQsIKAy/view?usp=sharing)
 - [PIRM-test](https://drive.google.com/file/d/1OngQfvbpVXCFDHNZhZMAMGjTSVNAfkOb/view?usp=sharing) 
 - [BSD100](https://drive.google.com/file/d/12ABqYLYcIhCuYJkMs4HANarjj-OxzWQ2/view?usp=sharing) 
 - [Urban100](https://drive.google.com/file/d/1vgjberya6rYcYq7sTW-DsVOnadqvVYNM/view?usp=sharing) 
