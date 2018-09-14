@@ -40,4 +40,6 @@ The code is built on the official implementation of [EDSR (PyTorch)](https://git
 
 [CX] Mechrez, R., Talmi, I., Shama, F., Zelnik-Manor, L. [Learning to maintain natural image statistics](https://arxiv.org/pdf/1803.04626.pdf). arXiv preprint arXiv:1803.04626 (2018)
 
+## Acknowledgements
+This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch). We thank the authors for sharing their codes of EDSR [PyTorch version](https://github.com/thstkdgus35/EDSR-PyTorch).
 
