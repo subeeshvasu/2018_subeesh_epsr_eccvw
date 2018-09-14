@@ -21,3 +21,12 @@ Results
 ## Test
 The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and tested on Ubuntu 16.04 environment (Python3.6, PyTorch_0.4.0, CUDA8.0) with Titan X GPU. Refer [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) for other dependencies.
 
+
+## References
+[EDSR] Lim, B., Son, S., Kim, H., Nah, S., Lee, K.M.: [Enhanced deep residual networks for single image super-resolution](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf). CVPR workshops 2017
+
+[ENet] Sajjadi, M.S., Sch ̈olkopf, B., Hirsch, M.: [Enhancenet: Single image super-resolution through automated texture synthesis](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf). ICCV 2017
+
+[CX] Mechrez, R., Talmi, I., Shama, F., Zelnik-Manor, L. [Learning to maintain natural image statistics](https://arxiv.org/pdf/1803.04626.pdf). arXiv preprint arXiv:1803.04626 (2018)
+
+
