@@ -18,6 +18,10 @@ This repo provides the testing codes and pretrained models of our work. We (IPCV
 <img src="results/example_results.png">
 </p>
 
+<p align="center">
+<img src="results/example_results2.png">
+</p>
+
 Visual comparison for 4× SR with bicubic interpolation model on PIRM-self and B100 datasets. [EDSR](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf), [ENet](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf), and [CX](https://arxiv.org/pdf/1803.04626.pdf) are existing works. EPSR<sub>1</sub>, EPSR<sub>2</sub>, and EPSR<sub>3</sub> are the results of our approach (EPSR) corresponding to region 1, 2, and 3 of PIRM-SR challenge. BNet<sub>1</sub>, BNet<sub>2</sub>, and BNet<sub>3</sub> are the results of our baseline network. I<sub>HR</sub> refers to the ground truth HR image.
 
 ## Test
