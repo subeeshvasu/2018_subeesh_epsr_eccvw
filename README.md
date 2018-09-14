@@ -13,10 +13,11 @@ This repo provides the testing codes and pretrained models of our work. We (IPCV
         title = {Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network},
         booktitle = {European Conference on Computer Vision (ECCV) Workshops},
         year = {2018}}
-Results     
+## Results     
 <p align="center">
 <img src="results/example_results.png">
 </p>
+
 Visual comparison for 4× SR with bicubic interpolation model on PIRM-self and B100 datasets. The best results are highlighted. [EDSR](bla) http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf, [ENet] (http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf), and [CX] (https://arxiv.org/pdf/1803.04626.pdf) are existing works. EPSR1, EPSR2, and EPSR3 are the results of our approach (EPSR) corresponding to region 1, 2, and 3 of PIRM-SR challenge. BNet1, BNet2, and BNet3 are the results of our baseline network.
 
 ## Test
