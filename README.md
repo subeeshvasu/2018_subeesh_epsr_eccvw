@@ -29,7 +29,7 @@ Visual comparison for 4× SR with bicubic interpolation model on PIRM-self, BSD1
 Perception-distortion trade-off between BNet and EPSR. For both methods, the above plot has the values corresponding to 19 model weights which span different regions on the perception-distortion plane and the corresponding curves that best fit these values.
 
 <p align="center">
-<img src="results/pirm_ranking.png">
+<img src="results/pirm_ranking.png" alt="drawing" width="700"/>
 </p>
 Performance comparison of top 9 methods from PIRM-SR challenge. Methods are ranked based on the PI and RMSE values corresponding to the test data of PIRM-SR. The entries from our approach are highlighted in red. Methods with a marginal difference in PI and RMSE values share the same rank and are indicated with a " * ".
 
