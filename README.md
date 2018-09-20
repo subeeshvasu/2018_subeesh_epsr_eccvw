@@ -13,7 +13,7 @@ This repo provides the test code, pretrained models, and results on benchmark da
         year = {2018}}
 ## Results     
 <p align="center">
-<img src="results/example_results.png">
+<img src="results/example_results.png" height="42" width="42">
 </p>
 
 <p align="center">
