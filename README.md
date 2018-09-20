@@ -31,7 +31,7 @@ Perception-distortion trade-off between BNet and EPSR. For both methods, the abo
 <p align="center">
 <img src="results/pirm_ranking.png">
 </p>
-Performance comparison of top 9 methods from PIRM-SR challenge. Methods are ranked based on the PI and RMSE values corresponding to the test data of PIRM-SR. The entries from our approach are highlighted in red. Methods with a marginal difference in PI and RMSE values share the same rank and are indicated with a "*".
+Performance comparison of top 9 methods from PIRM-SR challenge. Methods are ranked based on the PI and RMSE values corresponding to the test data of PIRM-SR. The entries from our approach are highlighted in red. Methods with a marginal difference in PI and RMSE values share the same rank and are indicated with a " * ".
 
 
 ## Test
