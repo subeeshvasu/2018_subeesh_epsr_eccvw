@@ -23,7 +23,7 @@ This repo provides the test code, pretrained models, and results on benchmark da
 Visual comparison for 4× SR with bicubic interpolation model on PIRM-self, BSD100, and Urban100 datasets. Here I<sub>HR</sub> refers to the ground truth HR image. [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html), [EDSR](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf), [DBPN](http://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf), [ENet](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sajjadi_EnhanceNet_Single_Image_ICCV_2017_paper.pdf), and [CX](https://arxiv.org/pdf/1803.04626.pdf) are existing works. EPSR<sub>1</sub>, EPSR<sub>2</sub>, and EPSR<sub>3</sub> are the results of our approach (EPSR) corresponding to region 1, 2, and 3 of PIRM-SR challenge. BNet<sub>1</sub>, BNet<sub>2</sub>, and BNet<sub>3</sub> are the results of our baseline network. 
 
 <p align="center">
-<img src="results/trade_off_curve.png" alt="drawing" width="200"/>
+<img src="results/trade_off_curve.png" alt="drawing" width="400"/>
 </p>
 
 Perception-distortion trade-off between BNet and EPSR. For both methods, the above plot has the values corresponding to 19 model weights which span different regions on the perception-distortion plane and the corresponding curves that best fit these values.
