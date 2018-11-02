@@ -2,7 +2,7 @@
 
 This repo provides the test code, pretrained models, and results on benchmark datasets of our work. We (IPCV_team) won the first place in [PIRM2018-SR competition](https://www.pirm2018.org/PIRM-SR.html) (region 1). We were also ranked as second and thrid in region 2 and 3 respectively. For details refer to our recently accepted paper in [ECCV2018 PIRM Workshop](https://pirm2018.org/).
 
-"Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network", [Subeesh Vasu](https://subeeshvasu.github.io), [Nimisha T. M.](https://nimiiit.github.io/) and [A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/), Perceptual Image Restoration and Manipulation (PIRM) Workshop and Challenge, Eurpean Conference on Computer Vision Workshops (ECCVW 2018), Munich, Germany, September 2018. [Arxiv version](https://arxiv.org/pdf/1811.00344.pdf)
+"Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network", [Subeesh Vasu](https://subeeshvasu.github.io), [Nimisha T. M.](https://nimiiit.github.io/) and [A. N. Rajagopalan](http://www.ee.iitm.ac.in/~raju/), Perceptual Image Restoration and Manipulation (PIRM) Workshop and Challenge, Eurpean Conference on Computer Vision Workshops (ECCVW 2018), Munich, Germany, September 2018. [arXiv](https://arxiv.org/pdf/1811.00344.pdf)
 
 #### BibTeX
  
