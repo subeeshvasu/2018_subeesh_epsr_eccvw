@@ -6,7 +6,7 @@ This repo provides the test code, pretrained models, and results on benchmark da
 
 #### BibTeX
  
-     @inproceedings{vasu2018epsr,
+     @inproceedings{vasu2018analyzing,
         author = {Vasu, Subeesh and T.M., Nimisha and Rajagopalan, A.N.},
         title = {Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network},
         booktitle = {European Conference on Computer Vision (ECCV) Workshops},
