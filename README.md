@@ -1,4 +1,4 @@
-# EPSR (Enhanced Perceptual Super-resolution Network) [paper](https://drive.google.com/file/d/1AfhKX6KlxE1gc95ImviYWHnd_gg3_dP9/view?usp=sharing)
+# EPSR (Enhanced Perceptual Super-resolution Network) [paper](https://drive.google.com/file/d/102SPK0bhklUWFYhOEIJSwbw0m614Fjqa/view)
 
 This repo provides the test code, pretrained models, and results on benchmark datasets of our work. We (IPCV_team) won the first place in [PIRM2018-SR competition](https://www.pirm2018.org/PIRM-SR.html) (region 1). We were also ranked as second and thrid in region 2 and 3 respectively. For details refer to our recently accepted paper in [ECCV2018 PIRM Workshop](https://pirm2018.org/).
 
